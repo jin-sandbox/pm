@@ -1,0 +1,11 @@
+{
+     "name": "beehive.js",
+     "version": "1.0.0b",
+     "maintainers": [
+          {
+               "name": "jindw",
+               "email": "jindw@xidea.org"
+          }
+     ],
+     "dependencies": {}
+}

@@ -5,17 +5,14 @@ agent/
 ref/
 test/
 
-# generated files
+# temp generated files
 gen/
-agent.js
 bees.js
-
-# Local configuration
-local.properties
 
 
 # project files
 .classpath
 .project
 .gitignore
+.npmignore
 beehive.js.iml
